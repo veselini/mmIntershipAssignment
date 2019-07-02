@@ -1,0 +1,11 @@
+D:\Work\source\repos\NBASuperstars\NBASuperstars\bin\Debug\netcoreapp2.1\NBASuperstars.deps.json
+D:\Work\source\repos\NBASuperstars\NBASuperstars\bin\Debug\netcoreapp2.1\NBASuperstars.runtimeconfig.json
+D:\Work\source\repos\NBASuperstars\NBASuperstars\bin\Debug\netcoreapp2.1\NBASuperstars.runtimeconfig.dev.json
+D:\Work\source\repos\NBASuperstars\NBASuperstars\bin\Debug\netcoreapp2.1\NBASuperstars.dll
+D:\Work\source\repos\NBASuperstars\NBASuperstars\bin\Debug\netcoreapp2.1\NBASuperstars.pdb
+D:\Work\source\repos\NBASuperstars\NBASuperstars\obj\Debug\netcoreapp2.1\NBASuperstars.csproj.CoreCompileInputs.cache
+D:\Work\source\repos\NBASuperstars\NBASuperstars\obj\Debug\netcoreapp2.1\NBASuperstars.AssemblyInfoInputs.cache
+D:\Work\source\repos\NBASuperstars\NBASuperstars\obj\Debug\netcoreapp2.1\NBASuperstars.AssemblyInfo.cs
+D:\Work\source\repos\NBASuperstars\NBASuperstars\obj\Debug\netcoreapp2.1\NBASuperstars.dll
+D:\Work\source\repos\NBASuperstars\NBASuperstars\obj\Debug\netcoreapp2.1\NBASuperstars.pdb
+D:\Work\source\repos\NBASuperstars\NBASuperstars\obj\Debug\netcoreapp2.1\NBASuperstars.csprojAssemblyReference.cache
